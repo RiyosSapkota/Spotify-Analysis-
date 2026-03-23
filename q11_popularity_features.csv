@@ -1,0 +1,3 @@
+"popularity_tier","avg_danceability","avg_energy","avg_valence","avg_acousticness","avg_tempo","track_count"
+"Unpopular",0.65,0.72,0.48,0.30,122.02,65413
+"Popular",0.79,0.81,0.50,0.16,119.98,4846

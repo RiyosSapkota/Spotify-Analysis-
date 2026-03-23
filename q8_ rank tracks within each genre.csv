@@ -1,0 +1,412 @@
+"track_name","artists","track_genre","popularity","genre_rank"
+"Hold On","Chord Overstreet","acoustic",82,1
+"I'm Yours","Jason Mraz","acoustic",80,2
+"I'm Yours","Jason Mraz","acoustic",75,3
+"Pano","Zack Tabudlo","acoustic",75,3
+"Atrévete-Te-Te","Calle 13","afrobeat",75,1
+"La Que Me Gusta","Los Amigos Invisibles","afrobeat",71,2
+"Muerte En Hawaii","Calle 13","afrobeat",71,2
+"Sweater Weather","The Neighbourhood","alt-rock",93,1
+"Daddy Issues","The Neighbourhood","alt-rock",87,2
+"Softcore","The Neighbourhood","alt-rock",86,3
+"Mr. Brightside","The Killers","alt-rock",86,3
+"Sweater Weather","The Neighbourhood","alternative",93,1
+"Miss You","Oliver Tree;Robin Schulz","alternative",87,2
+"Daddy Issues","The Neighbourhood","alternative",87,2
+"Apocalypse","Cigarettes After Sex","ambient",84,1
+"Experience","Ludovico Einaudi;Daniel Hope;I Virtuosi Italiani","ambient",79,2
+"K.","Cigarettes After Sex","ambient",78,3
+"Sunsetz","Cigarettes After Sex","ambient",78,3
+"KICK BACK","Kenshi Yonezu","anime",83,1
+"Polaroid Love","ENHYPEN","anime",78,2
+"残響散歌","Aimer","anime",77,3
+"FEVER","ENHYPEN","anime",77,3
+"Future Perfect (Pass the MIC)","ENHYPEN","anime",77,3
+"ダンスホール","Mrs. GREEN APPLE","anime",77,3
+"Doomswitch","Make Them Suffer","black-metal",58,1
+"Freezing Moon","Mayhem","black-metal",56,2
+"Puritania","Dimmu Borgir","black-metal",54,3
+"Nymphetamine Fix","Cradle Of Filth","black-metal",54,3
+"Daylight","Watchhouse","bluegrass",69,1
+"Wagon Wheel","Old Crow Medicine Show","bluegrass",67,2
+"Old Ties and Companions","Watchhouse","bluegrass",66,3
+"Seven Nation Army","The White Stripes","blues",84,1
+"Sweet Home Alabama","Lynyrd Skynyrd","blues",81,2
+"Cigarette Daydreams","Cage The Elephant","blues",79,3
+"Move Your Body","Öwnboss;Sevek","brazil",82,1
+"Sicko Drop","KVSH;Schillist","brazil",69,2
+"Infinity - Dubdogz & Bhaskar Edit","Dubdogz;Bhaskar","brazil",69,2
+"Be Someone","KVSH;Schillist;Ray X Ben","brazil",69,2
+"Breathe","The Prodigy","breakbeat",66,1
+"Hey Boy Hey Girl","The Chemical Brothers","breakbeat",65,2
+"Galvanize","The Chemical Brothers","breakbeat",64,3
+"Firestarter","The Prodigy","breakbeat",64,3
+"Only Love Can Hurt Like This","Paloma Faith","british",87,1
+"Easy On Me","Adele","british",85,2
+"Oh My God","Adele","british",82,3
+"Easy On Me","Adele","british",82,3
+"Here Comes The Sun - Remastered 2009","The Beatles","british",82,3
+"風雨不改 (電影《阿媽有咗第二個》主題曲)","Keung To","cantopop",72,1
+"Dear My Friend,","Keung To","cantopop",69,2
+"Distance","陳卓賢 Ian","cantopop",67,3
+"孤勇者 - 《英雄聯盟:雙城之戰》動畫劇集中文主題曲","Eason Chan","cantopop",67,3
+"留一天與你喘息","陳卓賢 Ian","cantopop",67,3
+"Dancin (feat. Luvli) - Krono Remix","Aaron Smith;Krono;Luvli","chicago-house",78,1
+"Dancin - Krono Remix","Aaron Smith;Luvli;Krono","chicago-house",76,2
+"Move Your Body","Marshall Jefferson;Solardo","chicago-house",62,3
+"Baby Shark","Pinkfong","children",77,1
+"Wheels on the Bus","CoComelon","children",72,2
+"Twinkle Twinkle Little Star","Super Simple Songs","children",69,3
+"Another Love","Tom Odell","chill",93,1
+"double take","dhruv","chill",83,2
+"NVMD","Denise Julia","chill",79,3
+"Hex","80purppp","chill",79,3
+"Experience","Ludovico Einaudi;Daniel Hope;I Virtuosi Italiani","classical",79,1
+"Nuvole Bianche","Ludovico Einaudi","classical",73,2
+"River Flows In You","Yiruma","classical",71,3
+"Lost in the Fire (feat. The Weeknd)","Gesaffelstein;The Weeknd","club",85,1
+"Somewhere Only We Know (feat. Darren Criss)","Glee Cast;Darren Criss","club",65,2
+"I Got Summer On My Mind","Jay Dunham","club",65,2
+"Everyday Normal Guy 2","Jon Lajoie","comedy",75,1
+"Crazy Rap (Colt 45 & 2 Zig Zags)","Afroman","comedy",74,2
+"Because I Got High","Afroman","comedy",69,3
+"Something in the Orange","Zach Bryan","country",89,1
+"You Proof","Morgan Wallen","country",86,2
+"Have You Ever Seen The Rain","Creedence Clearwater Revival","country",84,3
+"Hotel California - 2013 Remaster","Eagles","country",84,3
+"Rock and A Hard Place","Bailey Zimmerman","country",84,3
+"Unholy (feat. Kim Petras)","Sam Smith;Kim Petras","dance",100,1
+"I'm Good (Blue)","David Guetta;Bebe Rexha","dance",98,2
+"Under The Influence","Chris Brown","dance",96,3
+"For My Hand (feat. Ed Sheeran)","Burna Boy;Ed Sheeran","dancehall",83,1
+"No Lie","Sean Paul;Dua Lipa","dancehall",83,1
+"Last Last","Burna Boy","dancehall",83,1
+"Delusions of Saviour","Slayer","death-metal",73,1
+"Stranded","Gojira","death-metal",65,2
+"Raining Blood","Slayer","death-metal",65,2
+"Ferrari","James Hype;Miggy Dela Rosa","deep-house",90,1
+"Ferrari - Remix","James Hype;Miggy Dela Rosa;Lazza","deep-house",80,2
+"Sugar (feat. Francesco Yates)","Robin Schulz;Francesco Yates","deep-house",76,3
+"Good Life","Inner City","detroit-techno",58,1
+"Good Life (Remastered) - Club Mix","Inner City","detroit-techno",54,2
+"Big Fun","Inner City","detroit-techno",53,3
+"September","Earth, Wind & Fire","disco",83,1
+"Never Gonna Give You Up","Rick Astley","disco",80,2
+"Wake Me Up Before You Go-Go","Wham!","disco",80,2
+"Stayin Alive","Bee Gees","disco",80,2
+"Hakuna Matata - From ""The Lion King""/Soundtrack","Nathan Lane;Ernie Sabella;Jason Weaver;Joseph Williams","disney",72,1
+"You've Got a Friend in Me - From ""Toy Story""/Soundtrack Version","Randy Newman","disney",71,2
+"Love Is an Open Door - From ""Frozen""/Soundtrack Version","Kristen Bell;Santino Fontana","disney",71,2
+"Afterglow","Wilkinson;Becky Hill","drum-and-bass",69,1
+"Off The Ground","Sub Focus","drum-and-bass",67,2
+"Gold Dust - Radio Edit","DJ Fresh","drum-and-bass",65,3
+"Everything Goes On","Porter Robinson;League of Legends","dub",73,1
+"Dead To Me - Slow + Reverb","Whales;Fraxo;Lox Chatterbox","dub",73,1
+"All That Really Matters","ILLENIUM;Teddy Swims","dub",70,3
+"Everything Goes On","Porter Robinson;League of Legends","dubstep",73,1
+"Dead To Me - Slow + Reverb","Whales;Fraxo;Lox Chatterbox","dubstep",73,1
+"All That Really Matters","ILLENIUM;Teddy Swims","dubstep",70,3
+"I'm Good (Blue)","David Guetta;Bebe Rexha","edm",98,1
+"Where Are You Now","Lost Frequencies;Calum Scott","edm",88,2
+"Belly Dancer","Imanbek;BYOR","edm",87,3
+"Numb","Marshmello;Khalid","edm",87,3
+"One Kiss (with Dua Lipa)","Calvin Harris;Dua Lipa","electro",89,1
+"Bad Decisions (with BTS & Snoop Dogg)","benny blanco;BTS;Snoop Dogg","electro",87,2
+"Numb","Marshmello;Khalid","electro",87,2
+"Belly Dancer","Imanbek;BYOR","electro",87,2
+"Let Me Love You","DJ Snake;Justin Bieber","electronic",84,1
+"Shootout","Izzamuzzic;Julien Marchal","electronic",78,2
+"SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)","DJ Snake;Ozuna;Megan Thee Stallion;LISA","electronic",77,3
+"Revenge","XXXTENTACION","emo",87,1
+"Hope","XXXTENTACION","emo",86,2
+"Everybody Dies In Their Nightmares","XXXTENTACION","emo",85,3
+"Atlantis","Seafret","folk",90,1
+"Hotel California - 2013 Remaster","Eagles","folk",84,2
+"The Night We Met","Lord Huron","folk",83,3
+"Amante, Amiga e Namorada - Ao Vivo","Max e Luan","forro",62,1
+"Esqueceu Foi Porra","Eric Land;Tarcísio do Acordeon","forro",61,2
+"Eu Também Não Vou - Ao Vivo","Humberto & Ronaldo;Ícaro e Gilmar","forro",59,3
+"Give It To Me - Full Vocal Mix","Matt Sassari","french",79,1
+"Balader","Soolking;Niska","french",79,1
+"TOUT VA BIEN (feat. Ninho & Naps)","Alonzo;Ninho;Naps","french",79,1
+"Gangsta's Paradise","Coolio;L.V.","funk",89,1
+"Still D.R.E.","Dr. Dre;Snoop Dogg","funk",84,2
+"Envolver","Anitta","funk",84,2
+"I Wanna Be Yours","Arctic Monkeys","garage",92,1
+"505","Arctic Monkeys","garage",88,2
+"Why'd You Only Call Me When You're High?","Arctic Monkeys","garage",88,2
+"Do I Wanna Know?","Arctic Monkeys","garage",88,2
+"Bamba (feat. Aitch & BIA)","Luciano;Aitch;BIA","german",84,1
+"Stolen Dance","Milky Chance","german",80,2
+"The Middle","Zedd;Maren Morris;Grey","german",80,2
+"Kernkraft 400 (A Better Day)","Topic;A7S","german",80,2
+"Forever and Ever, Amen","Randy Travis","gospel",63,1
+"Vem Me Buscar - Ao Vivo","Jefferson & Suellen","gospel",58,2
+"Redentor","Marcelo Markes;Sarah Beatriz","gospel",58,2
+"Sua Presença - Ao Vivo","Isaias Saad","gospel",58,2
+"Stay Alive","José González","goth",67,1
+"Heartbeats","José González","goth",66,2
+"Spellbound","Siouxsie and the Banshees","goth",64,3
+"Unfit for Human Consumption","Carcass","grindcore",46,1
+"Bring Back the Plague","Cattle Decapitation","grindcore",46,1
+"Scum","Napalm Death","grindcore",45,3
+"Ferrari","James Hype;Miggy Dela Rosa","groove",90,1
+"Ferrari - Remix","James Hype;Miggy Dela Rosa;Lazza","groove",80,2
+"Walk","Pantera","groove",74,3
+"California Dreamin' (feat. High Jinx)","Chris Lorenzo;High Jinx","groove",74,3
+"In the End","Linkin Park","grunge",85,1
+"Everlong","Foo Fighters","grunge",84,2
+"Smells Like Teen Spirit","Nirvana","grunge",83,3
+"Numb","Linkin Park","grunge",83,3
+"Nothing's Gonna Change My Love for You","George Benson","guitar",71,1
+"Wu Wei","De Moi","guitar",61,2
+"Breezin'","George Benson","guitar",60,3
+"Lava","Kuana Torres Kahele;Napua Greig;James Ford Murphy","guitar",60,3
+"Dreams (Will Come Alive)","2 Brothers On The 4th Floor","happy",65,1
+"Wanna Play?","The Prophet","happy",65,1
+"Us Against The World","Darren Styles","happy",62,3
+"The Logical Song - Radio Edit [Remastered]","Scooter","happy",62,3
+"Mary On A Cross","Ghost","hard-rock",88,1
+"Back In Black","AC/DC","hard-rock",85,2
+"Highway to Hell","AC/DC","hard-rock",85,2
+"Hypnotize - 2014 Remaster","The Notorious B.I.G.","hardcore",80,1
+"Big Poppa - 2005 Remaster","The Notorious B.I.G.","hardcore",79,2
+"Juicy - 2005 Remaster","The Notorious B.I.G.","hardcore",76,3
+"Shook Ones, Pt. II","Mobb Deep","hardcore",76,3
+"Transgender","Crystal Castles","hardcore",76,3
+"Paradise","Toneshifterz;Firelite","hardstyle",70,1
+"Around the World (La la La)","Refuzion","hardstyle",65,2
+"Wanna Play?","The Prophet","hardstyle",65,2
+"Harder State Of Mind","D-Block & S-te-Fan;DJ Isaac","hardstyle",65,2
+"One Night in Tokyo","Beast In Black","heavy-metal",62,1
+"Yggdrasil","Brothers of Metal","heavy-metal",62,1
+"Balls to the Wall","Accept","heavy-metal",61,3
+"Blind and Frozen","Beast In Black","heavy-metal",61,3
+"Quevedo: Bzrp Music Sessions, Vol. 52","Bizarrap;Quevedo","hip-hop",99,1
+"Super Freaky Girl","Nicki Minaj","hip-hop",92,2
+"Jimmy Cooks (feat. 21 Savage)","Drake;21 Savage","hip-hop",91,3
+"He Stopped Loving Her Today","George Jones","honky-tonk",56,1
+"The One I Loved Back Then (The Corvette Song)","George Jones","honky-tonk",56,1
+"The Race Is On","George Jones","honky-tonk",56,1
+"Ferrari","James Hype;Miggy Dela Rosa","house",90,1
+"One Kiss (with Dua Lipa)","Calvin Harris;Dua Lipa","house",89,2
+"Where Are You Now","Lost Frequencies;Calum Scott","house",88,3
+"Test & Recognise - Flume Re-work","Seekae;Flume","idm",70,1
+"Every High","Kyson","idm",56,2
+"Every High - Young & Sick in-Flight Remix","Kyson;Young & Sick","idm",50,3
+"Recovery","Rival Consoles","idm",50,3
+"Kesariya (From ""Brahmastra"")","Pritam;Arijit Singh;Amitabh Bhattacharya","indian",88,1
+"Deva Deva (From ""Brahmastra"")","Pritam;Arijit Singh;Amitabh Bhattacharya;Jonita Gandhi","indian",79,2
+"Ranjha (From ""Shershaah"")","Jasleen Royal;B Praak;Romy;Anvita Dutt","indian",77,3
+"I Wanna Be Yours","Arctic Monkeys","indie",92,1
+"I Love You So","The Walters","indie",89,2
+"BILLIE EILISH.","Armani White","indie",89,2
+"Heat Waves","Glass Animals","indie-pop",88,1
+"Freaks","Surf Curse","indie-pop",86,2
+"Beggin'","Måneskin","indie-pop",86,2
+"Deutschland","Rammstein","industrial",77,1
+"Dragula","Rob Zombie","industrial",76,2
+"Du hast","Rammstein","industrial",75,3
+"Bodies","Drowning Pool","industrial",75,3
+"Dicke Titten","Rammstein","industrial",75,3
+"Kani (Day)","Porya Hatami","iranian",33,1
+"Pomegranates","Porya Hatami","iranian",32,2
+"Dri:merz Path / Way","Crows in the Rain","iranian",29,3
+"No Diggity","Blackstreet;Dr. Dre;Queen Pen","j-dance",77,1
+"Go Down Deh (feat. Shaggy and Sean Paul)","Spice;Shaggy;Sean Paul","j-dance",74,2
+"679 (feat. Remy Boyz)","Fetty Wap;Remy Boyz","j-dance",74,2
+"Trap Queen","Fetty Wap","j-dance",74,2
+"Plastic Love","Mariya Takeuchi","j-idol",65,1
+"Gimme Chocolate!!","BABYMETAL","j-idol",59,2
+"BxMxC","BABYMETAL","j-idol",58,3
+"secret base ~君がくれたもの~","ZONE","j-idol",58,3
+"Shinunoga E-Wa","Fujii Kaze","j-pop",85,1
+"KICK BACK","Kenshi Yonezu","j-pop",83,2
+"Overdose","なとり","j-pop",78,3
+"ダンスホール","Mrs. GREEN APPLE","j-rock",77,1
+"残響散歌","Aimer","j-rock",77,1
+"紅蓮華","LiSA","j-rock",74,3
+"水平線","back number","j-rock",74,3
+"SOUVENIR","BUMP OF CHICKEN","j-rock",74,3
+"September","Earth, Wind & Fire","jazz",83,1
+"Just the Two of Us (feat. Bill Withers)","Grover Washington, Jr.;Bill Withers","jazz",77,2
+"Boogie Wonderland","Earth, Wind & Fire;The Emotions","jazz",76,3
+"Don't Know Why","Norah Jones","jazz",76,3
+"After LIKE","IVE","k-pop",88,1
+"Shut Down","BLACKPINK","k-pop",87,2
+"First Class","Jack Harlow","k-pop",86,3
+"Talk that Talk","TWICE","k-pop",86,3
+"Cupid Shuffle","Cupid","kids",63,1
+"Slippery Fish","Amy Liz","kids",58,2
+"Baby Shark Breakbeat","Dede Sabunge","kids",56,3
+"La Bachata","Manuel Turizo","latin",98,1
+"Tití Me Preguntó","Bad Bunny","latin",97,2
+"Me Porto Bonito","Bad Bunny;Chencho Corleone","latin",97,2
+"La Bachata","Manuel Turizo","latino",98,1
+"Tití Me Preguntó","Bad Bunny","latino",97,2
+"Me Porto Bonito","Bad Bunny;Chencho Corleone","latino",97,2
+"Manavaalan Thug - From ""Thallumaala""","Dabzee;SA","malay",72,1
+"Cinta Ini Membunuhku","D’MASIV","malay",65,2
+"慢冷","Fish Leong","malay",62,3
+"Sempurna","Insomniacks","malay",62,3
+"Satu Malam Di Temasek","Joe Flizzow;SonaOne","malay",62,3
+"如果可以 - 電影""月老""主題曲","WeiBird","mandopop",71,1
+"最後一堂課 - 《媽,別鬧了!》影集片尾曲","Eric Chou","mandopop",67,2
+"孤勇者 - 《英雄聯盟:雙城之戰》動畫劇集中文主題曲","Eason Chan","mandopop",67,2
+"Mary On A Cross","Ghost","metal",88,1
+"Livin' On A Prayer","Bon Jovi","metal",85,2
+"In the End","Linkin Park","metal",85,2
+"Can You Feel My Heart","Bring Me The Horizon","metalcore",81,1
+"FEEL NOTHING","The Plot In You","metalcore",76,2
+"Popular Monster","Falling In Reverse","metalcore",75,3
+"sTraNgeRs","Bring Me The Horizon","metalcore",75,3
+"Sky and Sand","Paul Kalkbrenner;Fritz Kalkbrenner","minimal-techno",68,1
+"Rave Harder Techno Bass","Mark Dekoda","minimal-techno",67,2
+"Gravity","Boris Brejcha;Laura Korinth","minimal-techno",64,3
+"Tuyo (Narcos Theme) [Extended Version] - A Netflix Original Series Soundtrack","Rodrigo Amarante","mpb",66,1
+"Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack","Rodrigo Amarante","mpb",65,2
+"Fácil - Acústico","Jota Quest","mpb",54,3
+"Outro Lugar","Detonautas Roque Clube","mpb",54,3
+"River Flows In You","Yiruma","new-age",71,1
+"Moonlight Shadow","Mike Oldfield","new-age",69,2
+"Return To Innocence","Enigma","new-age",66,3
+"Con te partirò","Andrea Bocelli","opera",67,1
+"Vivo per lei","Andrea Bocelli;Giorgia","opera",65,2
+"The Arts and the Hours","Jean-Philippe Rameau;Víkingur Ólafsson","opera",64,3
+"Envolver","Anitta","pagode",84,1
+"Envolver","Anitta","pagode",76,2
+"Downtown","Anitta;J Balvin","pagode",72,3
+"Olivia","Die Zipfelbuben;DJ Cashi","party",74,1
+"Layla","DJ Robin;Schürze","party",74,1
+"LEBENSLANG - HBz Remix","Tream;treamiboii;HBz","party",73,3
+"I Ain't Worried","OneRepublic","piano",96,1
+"Running Up That Hill (A Deal With God)","Kate Bush","piano",90,2
+"Hold Me Closer","Elton John;Britney Spears","piano",89,3
+"Unholy (feat. Kim Petras)","Sam Smith;Kim Petras","pop",100,1
+"I'm Good (Blue)","David Guetta;Bebe Rexha","pop",98,2
+"Under The Influence","Chris Brown","pop",96,3
+"I Ain't Worried","OneRepublic","pop",96,3
+"Megham Karukatha (From ""Thiruchitrambalam"")","Dhanush;Anirudh Ravichander","pop-film",80,1
+"Thenmozhi (From ""Thiruchitrambalam"")","Santhosh Narayanan;Anirudh Ravichander","pop-film",79,2
+"Mallipoo","A.R. Rahman;Madhushree","pop-film",79,2
+"The Middle","Jimmy Eat World","power-pop",81,1
+"Island In The Sun","Weezer","power-pop",78,2
+"Say It Ain't So","Weezer","power-pop",77,3
+"One Kiss (with Dua Lipa)","Calvin Harris;Dua Lipa","progressive-house",89,1
+"Numb","Marshmello;Khalid","progressive-house",87,2
+"Leave Before You Love Me (with Jonas Brothers)","Marshmello;Jonas Brothers","progressive-house",85,3
+"Here Comes The Sun - Remastered 2009","The Beatles","psych-rock",82,1
+"For What It's Worth","Buffalo Springfield","psych-rock",78,2
+"Homage","Mild High Club","psych-rock",78,2
+"California Dreamin' - Single Version","The Mamas & The Papas","psych-rock",78,2
+"Freaks","Surf Curse","punk",86,1
+"All The Small Things","blink-182","punk",83,2
+"You're Gonna Go Far, Kid","The Offspring","punk",81,3
+"The Middle","Jimmy Eat World","punk",81,3
+"Basket Case","Green Day","punk",81,3
+"The Kids Aren't Alright","The Offspring","punk",81,3
+"There Is a Light That Never Goes Out - 2011 Remaster","The Smiths","punk",81,3
+"Teenagers","My Chemical Romance","punk",81,3
+"All The Small Things","blink-182","punk-rock",82,1
+"The Middle","Jimmy Eat World","punk-rock",81,2
+"You're Gonna Go Far, Kid","The Offspring","punk-rock",81,2
+"The Kids Aren't Alright","The Offspring","punk-rock",81,2
+"Running Up That Hill (A Deal With God)","Kate Bush","r-n-b",90,1
+"Running Up That Hill (A Deal With God) - 2018 Remaster","Kate Bush","r-n-b",85,2
+"Calling My Phone","Lil Tjay;6LACK","r-n-b",81,3
+"Die Young (feat. 347aidan)","Sleepy Hallow;347aidan","r-n-b",81,3
+"2055","Sleepy Hallow","r-n-b",81,3
+"Beat the Odds","Lil Tjay","r-n-b",81,3
+"La Bachata","Manuel Turizo","reggae",98,1
+"Me Porto Bonito","Bad Bunny;Chencho Corleone","reggae",97,2
+"Tití Me Preguntó","Bad Bunny","reggae",97,2
+"La Bachata","Manuel Turizo","reggaeton",98,1
+"Tití Me Preguntó","Bad Bunny","reggaeton",97,2
+"Me Porto Bonito","Bad Bunny;Chencho Corleone","reggaeton",97,2
+"I Ain't Worried","OneRepublic","rock",96,1
+"Sweater Weather","The Neighbourhood","rock",93,2
+"I Wanna Be Yours","Arctic Monkeys","rock",92,3
+"Can't Help Falling in Love","Elvis Presley","rock-n-roll",80,1
+"Stand by Me","Ben E. King","rock-n-roll",80,1
+"Suspicious Minds","Elvis Presley","rock-n-roll",76,3
+"Johnny B. Goode","Chuck Berry","rock-n-roll",76,3
+"Can't Help Falling in Love","Elvis Presley","rockabilly",80,1
+"Suspicious Minds","Elvis Presley","rockabilly",76,2
+"Johnny B. Goode","Chuck Berry","rockabilly",76,2
+"Эти глаза напротив","Valery Obodzinsky","romance",35,1
+"Katyusha","Georgi Vinogradov","romance",34,2
+"Чистые пруды","Igor Talkov","romance",34,2
+"Living Life, In The Night","Cheriimoya;Sierra Kidd","sad",83,1
+"death bed (coffee for your head)","Powfu;beabadoobee","sad",83,1
+"Get You The Moon (feat. Snøw)","Kina;Snøw","sad",80,3
+"Virgen","Adolescent's Orquesta","salsa",77,1
+"Vivir Mi Vida","Marc Anthony","salsa",76,2
+"Yo No Sé Mañana","Luis Enrique","salsa",75,3
+"The Girl From Ipanema","Stan Getz;João Gilberto;Astrud Gilberto","samba",68,1
+"Mas Que Nada","Sérgio Mendes;Black Eyed Peas","samba",64,2
+"Impossível Te Esquecer - Ao Vivo","Caju Pra Baixo","samba",57,3
+"Golaço (Ao Vivo)","Turma do Pagode;Vou pro Sereno","sertanejo",63,1
+"Amante, Amiga e Namorada - Ao Vivo","Max e Luan","sertanejo",62,2
+"Sentimentalmente Esperto - Ao Vivo","Henrique & Juliano","sertanejo",62,2
+"Meu Anjo / Esqueça Que Eu Te Amo / É Amor Demais (Ao Vivo)","Murilo Huff","sertanejo",62,2
+"Problemão - Ao Vivo","Hugo & Vitor;Clayton & Romário","sertanejo",62,2
+"Let It Go - From ""Frozen""/Soundtrack Version","Idina Menzel","show-tunes",75,1
+"Never Enough","Loren Allred","show-tunes",75,1
+"Rewrite The Stars","Zac Efron;Zendaya","show-tunes",74,3
+"A Million Dreams","Ziv Zaifman;Hugh Jackman;Michelle Williams","show-tunes",74,3
+"Rewrite The Stars","Zac Efron;Zendaya","show-tunes",74,3
+"This Is Me","Keala Settle;The Greatest Showman Ensemble","show-tunes",74,3
+"Running Up That Hill (A Deal With God)","Kate Bush","singer-songwriter",90,1
+"Until I Found You","Stephen Sanchez","singer-songwriter",89,2
+"Running Up That Hill (A Deal With God) - 2018 Remaster","Kate Bush","singer-songwriter",85,3
+"The Kids Aren't Alright","The Offspring","ska",81,1
+"You're Gonna Go Far, Kid","The Offspring","ska",81,1
+"Self Esteem","The Offspring","ska",77,3
+"Santeria","Sublime","ska",77,3
+"Clean White Noise - Loopable with no fade","White Noise Baby Sleep;White Noise for Babies","sleep",85,1
+"Brown Sleep Noise","Sleep Miracle","sleep",80,2
+"Deep Sleep Recovery Noise","Water Sound Natural White Noise","sleep",76,3
+"Running Up That Hill (A Deal With God)","Kate Bush","songwriter",90,1
+"Until I Found You","Stephen Sanchez","songwriter",89,2
+"Running Up That Hill (A Deal With God) - 2018 Remaster","Kate Bush","songwriter",85,3
+"Evergreen (You Didn’t Deserve Me At All)","Omar Apollo","soul",88,1
+"Only Love Can Hurt Like This","Paloma Faith","soul",87,2
+"Pink + White","Frank Ocean","soul",85,3
+"Lost","Frank Ocean","soul",85,3
+"All of Me","John Legend","soul",85,3
+"cómo dormiste?","Rels B","spanish",89,1
+"Tiroteo - Remix","Marc Seguí;Rauw Alejandro;Pol Granch","spanish",81,2
+"A Mí","Rels B","spanish",80,3
+"Distractions","Timothy Infinite","study",55,1
+"Shoreditch","Clint Is Quinn","study",55,1
+"Skin Tone","Timothy Infinite","study",54,3
+"Dancing Queen","ABBA","swedish",83,1
+"Gimme! Gimme! Gimme! (A Man After Midnight)","ABBA","swedish",82,2
+"Angeleyes","ABBA","swedish",78,3
+"The Final Countdown","Europe","swedish",78,3
+"It Must Have Been Love - From the Film ""Pretty Woman""","Roxette","swedish",78,3
+"Everybody Wants To Rule The World","Tears For Fears","synth-pop",87,1
+"Take on Me","a-ha","synth-pop",85,2
+"Sweet Dreams (Are Made of This) - Remastered","Eurythmics;Annie Lennox;Dave Stewart","synth-pop",82,3
+"Por Una Cabeza","Carlos Gardel","tango",46,1
+"Scent of a Woman: Tango (Por Una Cabeza)","Carlos Gardel;Itzhak Perlman;John Williams;Pittsburgh Symphony Orchestra","tango",44,2
+"Naranjo en Flor (En Directo)","Roberto Goyeneche","tango",38,3
+"Cambalache","Rubén Juárez","tango",38,3
+"Lost in the Fire (feat. The Weeknd)","Gesaffelstein;The Weeknd","techno",85,1
+"The Middle","Zedd;Maren Morris;Grey","techno",80,2
+"Give It To Me - Full Vocal Mix","Matt Sassari","techno",79,3
+"The Motto","Tiësto;Ava Max","trance",86,1
+"Don't Be Shy","Tiësto;KAROL G","trance",84,2
+"Hot In It","Tiësto;Charli XCX","trance",84,2
+"Teardrop","Massive Attack","trip-hop",71,1
+"Glory Box","Portishead","trip-hop",71,1
+"Who Is She ?","I Monster","trip-hop",67,3
+"Seni Dert Etmeler","Madrigal","turkish",77,1
+"M.","Anıl Emre Daldal","turkish",75,2
+"Arıyorum","EDIS","turkish",72,3
+"Reckless Love","Cory Asbury","world-music",70,1
+"Way Maker - Live","Leeland","world-music",67,2
+"Good Good Father","Chris Tomlin","world-music",66,3
+"10,000 Reasons (Bless The Lord) - Live","Matt Redman","world-music",66,3
+"Goodness of God - Live","Bethel Music;Jenn Johnson","world-music",66,3
+"What A Beautiful Name","Hillsong Worship;Brooke Ligertwood","world-music",66,3
